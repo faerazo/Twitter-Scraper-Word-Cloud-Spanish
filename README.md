@@ -1,4 +1,4 @@
-# Twitter Scraper Spanish
+# Twitter Scraper Spanish - Word Cloud
 
 I developed this code during the Ecuadorian general elections of 2021; the goal was to get a set of tweets about and specific trend (related to the candidates for the presidency) in a particular location (in this case, Ecuador). 
 
